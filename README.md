@@ -42,5 +42,5 @@
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=shiwanjun&show_icons=true&hide_border=true&hide_title=true" alt="GitHub stats for shiwanjun" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwanjun&layout=compact&hide_border=true" alt="Top languages for shiwanjun" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwanjun&layout=compact&hide_border=true&hide_title=true" alt="Top languages for shiwanjun" />
 </p>
