@@ -37,8 +37,8 @@
 
 ## 找到我 / Find Me
 
-- GitHub：[@shiwanjun](https://github.com/shiwanjun) —— 目前唯一的入口。
-- 想聊上面任何一个方向，开个 Issue 就行。
+- 博客：[shiwanjun.github.io](https://shiwanjun.github.io/) —— 拆解报告都写在这里。
+- GitHub：[@shiwanjun](https://github.com/shiwanjun) —— 想聊上面任何一个方向，开个 Issue 就行。
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=shiwanjun&show_icons=true&hide_border=true&hide_title=true" alt="GitHub stats for shiwanjun" />
