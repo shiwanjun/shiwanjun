@@ -22,7 +22,7 @@
 | --- | --- |
 | [Algorithmic](https://github.com/shiwanjun/Algorithmic) | Go 语言的算法练习——题解与笔记的存档。 |
 
-> 研究过的开源实现大多是别人的项目，fork 不在这里展示：拆完、记下，把用得上的带走。
+> 研究过的开源实现大多是别人的项目，fork 不在这里展示 —— 拆完、记下，把用得上的带走。
 
 ## 工作方式 / How I Work
 
